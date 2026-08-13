@@ -140,13 +140,13 @@ const raul = {
 
 ## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Coldzy213&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
+<img height="170" src="./profile/stats.svg" alt="Raul's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coldzy213&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="170" src="./profile/top-langs.svg" alt="Raul's Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Coldzy213&theme=github-dark-blue&hide_border=true"/>
+<img src="./profile/streak.svg" alt="Raul's GitHub Streak" />
 
 </div>
 
@@ -156,7 +156,22 @@ const raul = {
 
 ## 🐍 Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Coldzy213/Coldzy213/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="./profile/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
