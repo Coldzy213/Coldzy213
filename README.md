@@ -179,7 +179,7 @@ const raul = {
 
 <div align="center">
 
-## 🎯 Areas I'm Interested In
+##  Areas I'm Interested In
 
 `Full-Stack Development`
 
@@ -201,7 +201,7 @@ const raul = {
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://github.com/Coldzy213">
   <img src="https://img.shields.io/badge/GitHub-Coldzy213-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -221,7 +221,7 @@ const raul = {
 
 <br><br>
 
-### 💡 Build. Learn. Improve. Repeat.
+###  Code, Code, Code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
