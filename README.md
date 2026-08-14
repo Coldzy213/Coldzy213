@@ -4,7 +4,7 @@
 
 # Hi, I'm Raul Andrew Zamora
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%26+REST+API+Developer;React+Native+%26+Expo+Developer;Machine+Learning+Enthusiast;YOLO+%26+Computer+Vision;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Mobile+Developer;Web+Developer;Machine+Learning+Enthusiast;YOLO+%26+Computer+Vision;Always+Learning+Something+New..." />
 
 <br>
 
