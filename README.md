@@ -167,7 +167,7 @@ const drew = {
 
   <img
     alt="GitHub Contribution Snake"
-    src="./profile/github-contribution-grid-snake.svg"
+    src="./profile/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
