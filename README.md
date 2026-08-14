@@ -26,12 +26,10 @@ const raul = {
     role: "Information Technology Graduate",
 
     interests: [
-        "Full-Stack Development",
-        "Backend Development",
+        "Web Development",
         "Mobile Development",
         "Machine Learning",
         "Computer Vision",
-        "Artificial Intelligence"
     ],
 
     currentlyExploring: [
@@ -40,7 +38,7 @@ const raul = {
         "Modern Web Technologies"
     ],
 
-    motto: "Build. Learn. Improve. Repeat."
+    motto: "Code is Language."
 };
 ```
 
