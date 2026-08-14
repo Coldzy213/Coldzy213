@@ -8,7 +8,7 @@
 
 <br>
 
-I'm an Information Technology graduate, majoring in **Programming** from Southern Leyte State University.
+I'm an Information Technology graduate, majoring in **Programming**.
 
 I enjoy developing modern web and mobile applications while exploring **Machine Learning, Artificial Intelligence, and Computer Vision**.
 
