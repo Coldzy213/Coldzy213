@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Raul%20Andrew%20Zamora&fontAlign=50&fontAlignY=35&fontSize=38&desc=Web%20Development%20%7C%20Mobile%20Development%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Raul%20Andrew%20Zamora&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Web%20Developer%20%7C%20Mobile%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descSize=17&descAlignY=56&animation=fadeIn"
+  alt="Raul Andrew Zamora Header"
+/>
 
 # Hi, I'm Raul Andrew Zamora
 
@@ -221,6 +225,10 @@ const drew = {
 
 ###  Code, Code, Code.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=22&fontAlignY=72&animation=fadeIn"
+  alt="Profile Footer"
+/>
 
 </div>
