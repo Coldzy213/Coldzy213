@@ -27,7 +27,7 @@ My strongest experience is in **Laravel backend development and REST APIs**, alo
 ```javascript
 const drew = {
     name: "Raul Andrew Zamora",
-    role: "Information Technology Graduate",
+    role: "Developer",
 
     interests: [
         "Web Development",
