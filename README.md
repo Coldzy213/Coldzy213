@@ -127,7 +127,7 @@ const drew = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img height="170" src="./profile/stats.svg" alt="Raul's GitHub Stats" />
 
@@ -143,7 +143,7 @@ const drew = {
 
 <div align="center">
 
-## 🐍 Contributions
+## Contributions
 
 <picture>
   <source
