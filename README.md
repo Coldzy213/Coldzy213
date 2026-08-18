@@ -122,19 +122,6 @@ const drew = {
 
 ---
 
-<div align="center">
-
-## 🏆 Achievements
-
-🥈 **2nd Place** — Eastern Visayas Coding Olympics
-
-🏅 **National Semi-Final Qualifier** — CodeChum
-
-🏆 **Two-Time Champion** — Programming Skills Competition
-
-🎓 **Cum Laude** — Bachelor of Science in Information Technology
-
-</div>
 
 ---
 
