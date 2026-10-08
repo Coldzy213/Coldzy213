@@ -1,331 +1,258 @@
+<!--
+  PROFILE: Raul Andrew Zamora (Drew)
+  THEME: developer control room / midnight / electric cyan
+  INTERACTION: anchor links + collapsible panels
+  MOTION: local SVG animations + remote typing/activity SVGs
+  No JavaScript, custom CSS, or emoji required in GitHub Markdown.
+-->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&text=RAUL%20ANDREW%20ZAMORA&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20MOBILE%20ENGINEER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=57&animation=fadeIn" alt="Developer Banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=65&lines=%3E+Initializing+Developer+Profile...;%3E+Hello+World!+I'm+Drew.;%3E+Building+Web+%26+Mobile+Applications.;%3E+Exploring+AI+%26+Computer+Vision.;%3E+Turning+Ideas+Into+Reality." alt="Typing Animation" />
-
-<br/>
 
 <a href="https://github.com/Coldzy213">
-  <img src="https://img.shields.io/badge/GITHUB-COLDZY213-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  <img width="100%" src="./assets/hero.svg" alt="Animated developer command center banner for Raul Andrew Zamora" />
 </a>
-<a href="https://linkedin.com/in/drewzamora">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:zamoradrew213@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Coldzy213&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Coldzy213?label=FOLLOWERS&style=for-the-badge&color=1D4ED8&logo=github" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEVELOPMENT-38BDF8?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-22C55E?style=flat-square&labelColor=0F172A" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=850&color=5DE4F5&center=true&vCenter=true&width=850&height=48&lines=%24+whoami+%3E+Raul+Andrew+Zamora;%24+stack+--list+%3E+Laravel+%7C+Next.js+%7C+Expo;%24+focus+--set+%3E+AI+%2B+Computer+Vision;%24+git+commit+-m+%22Keep+Building%22" alt="Animated developer console messages" />
+
+<br/>
+
+<a href="https://github.com/Coldzy213?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=101A2A" alt="View repositories" /></a>
+<a href="https://linkedin.com/in/drewzamora"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:zamoradrew213@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Drew" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Coldzy213&label=PROFILE%20VIEWS&color=0891B2&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Coldzy213?label=FOLLOWERS&style=flat-square&color=2563EB&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/PRIMARY-API%20ENGINEERING-0891B2?style=flat-square&labelColor=0B1220" alt="API Engineering focus" />
+
+<br/><br/>
+
+**[PROFILE](#profile)** &nbsp; / &nbsp; **[TECH STACK](#tech-stack)** &nbsp; / &nbsp; **[PROJECTS](#projects)** &nbsp; / &nbsp; **[ANALYTICS](#analytics)** &nbsp; / &nbsp; **[ACTIVITY](#activity)** &nbsp; / &nbsp; **[CONTACT](#contact)**
 
 </div>
 
 ---
 
-## ⚡ Developer.exe
+<a id="profile"></a>
+## 01 // SYSTEM.IDENTITY
+
+```bash
+$ developer --info
+
+NAME           Raul Andrew Zamora
+ALIAS          Drew
+ROLE           Full-Stack / Mobile Developer
+EDUCATION      BS Information Technology, Major in Programming
+CORE           Laravel / REST APIs / Next.js / React Native
+EXPLORING      Artificial Intelligence / Computer Vision
+LOCATION       Philippines
+
+$ developer --motto
+> Code is Language.
+```
+
+I build **backend systems, web applications, and cross-platform mobile experiences**, with a strong interest in bringing **machine learning and computer vision** into practical products. My main focus is Laravel backend engineering, clean API design, and thoughtful integrations across the stack.
+
+<details>
+<summary><b>[ + ] OPEN / DEVELOPER CONFIGURATION</b></summary>
+
+<br/>
 
 ```javascript
-class Developer {
-  constructor() {
-    this.name = "Raul Andrew Zamora";
-    this.alias = "Drew";
-    this.role = "Full-Stack & Mobile Developer";
-    this.education = "BS Information Technology";
-    this.major = "Programming";
-    this.location = "Philippines";
-  }
-
-  get techStack() {
-    return {
-      backend: ["Laravel", "PHP", "Python", "FastAPI"],
-      frontend: ["Next.js", "React", "JavaScript"],
-      mobile: ["React Native", "Expo"],
-      databases: ["MySQL", "PostgreSQL", "SQLite"],
-      machineLearning: [
-        "PyTorch",
-        "TensorFlow",
-        "YOLO",
-        "Roboflow"
-      ],
-      tools: ["Git", "GitHub", "VS Code", "Unity", "Blender"]
-    };
-  }
-
-  get currentFocus() {
-    return [
-      "Building scalable web applications",
-      "Developing cross-platform mobile apps",
-      "Integrating Artificial Intelligence",
-      "Exploring Computer Vision",
-      "Improving backend architecture"
-    ];
-  }
-
-  introduce() {
-    return "I don't just write code. I build solutions.";
-  }
-}
-
-const drew = new Developer();
-console.log(drew.introduce());
+const drew = {
+  name: "Raul Andrew Zamora",
+  alias: "Drew",
+  role: "Full-Stack & Mobile Developer",
+  primary: ["Laravel", "REST APIs", "Next.js", "React Native"],
+  exploring: ["FastAPI", "PyTorch", "YOLO", "Computer Vision"],
+  principles: ["Build", "Test", "Refine", "Ship"],
+  motto: "Code is Language."
+};
 ```
 
----
+</details>
 
-## 🧠 About Me
+<a id="tech-stack"></a>
+## 02 // TECHNOLOGY.MODULES
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                       ║
-╠════════════════════════════════════════════════════════════╣
-║  Name       : Raul Andrew Zamora                           ║
-║  Alias      : Drew                                         ║
-║  Education  : BS Information Technology                    ║
-║  Major      : Programming                                 ║
-║  Specialty  : Backend, Web, Mobile & AI                    ║
-║  Location   : Philippines                                 ║
-║  Philosophy : Code is Language.                            ║
-╚════════════════════════════════════════════════════════════╝
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nextjs,react,js,ts&theme=dark" alt="Core technologies" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,pytorch,tensorflow,git,github,vscode&theme=dark" alt="Databases, ML, and development tools" />
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>[ 01 ] BACKEND ENGINEERING</b> — APIs, services, database systems</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,nodejs,mysql,postgres&theme=dark" alt="Backend icons" />
+
+**Focus:** Laravel applications, REST API development, authentication, server-side logic, relational databases, and integrations.
+
+</details>
+
+<details>
+<summary><b>[ 02 ] FRONTEND ENGINEERING</b> — web interfaces and applications</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,vite&theme=dark" alt="Frontend icons" />
+
+**Focus:** Responsive interfaces, component-based architecture, web applications, and API-connected frontends.
+
+</details>
+
+<details>
+<summary><b>[ 03 ] MOBILE ENGINEERING</b> — cross-platform applications</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,java&theme=dark" alt="Mobile icons" />
+
+**Focus:** React Native, Expo, mobile UI, navigation, client-side state, and backend connectivity.
+
+</details>
+
+<details>
+<summary><b>[ 04 ] MACHINE LEARNING</b> — vision and intelligent applications</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning icons" />
+
+**Focus:** Ultralytics YOLO, Roboflow, object detection, model integration, and computer vision experiments.
+
+</details>
+
+<details>
+<summary><b>[ 05 ] DEVELOPMENT TOOLCHAIN</b> — development, deployment, and 3D</summary>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,unity,blender&theme=dark" alt="Developer tool icons" />
+
+**Focus:** Git workflows, debugging, API testing, cloud deployment, Unity, and Blender.
+
+</details>
+
+<a id="projects"></a>
+## 03 // PROJECT.EXPLORER
+
+A shortcut to my public code and development activity. Select a route to explore.
+
+<div align="center">
+
+| ROUTE | DESTINATION | ACTION |
+|:--|:--|:--:|
+| `~/repositories` | Public code and projects | [OPEN](https://github.com/Coldzy213?tab=repositories) |
+| `~/repositories?language=PHP` | PHP and Laravel-focused code | [OPEN](https://github.com/Coldzy213?tab=repositories&language=PHP) |
+| `~/repositories?language=Python` | Python and ML-related code | [OPEN](https://github.com/Coldzy213?tab=repositories&language=Python) |
+| `~/stars` | Tools and repositories I follow | [OPEN](https://github.com/Coldzy213?tab=stars) |
+
+</div>
+
+<details>
+<summary><b>[ + ] OPEN / DEVELOPMENT PIPELINE</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A[DISCOVER] --> B[DESIGN]
+    B --> C[DEVELOP]
+    C --> D[TEST]
+    D --> E[DEPLOY]
+    E --> F[MONITOR]
+    F -. Iterate .-> B
+    style A fill:#0b1827,color:#b8e6f2,stroke:#278da4
+    style B fill:#0b1827,color:#b8e6f2,stroke:#278da4
+    style C fill:#154a72,color:#ffffff,stroke:#22d3ee
+    style D fill:#0b1827,color:#b8e6f2,stroke:#278da4
+    style E fill:#154a72,color:#ffffff,stroke:#22d3ee
+    style F fill:#0b1827,color:#b8e6f2,stroke:#278da4
 ```
 
-I'm an **Information Technology graduate majoring in Programming**, passionate about building applications that solve real-world problems.
+</details>
 
-My strongest experience is in **Laravel backend development, REST API architecture, and database-driven applications**.
-
-I also enjoy creating modern interfaces with **Next.js and React**, developing mobile experiences using **React Native and Expo**, and exploring **Machine Learning, Artificial Intelligence, and Computer Vision**.
-
-I believe great software is built through continuous learning, experimentation, and attention to detail.
-
----
-
-## 🛠️ Technology Arsenal
+<a id="analytics"></a>
+## 04 // GITHUB.TELEMETRY
 
 <div align="center">
 
-### `01 / PROGRAMMING LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,cs,java,cpp,html,css&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-### `02 / FRONTEND ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
-
-<br/><br/>
-
-### `03 / BACKEND ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,nodejs&theme=dark" alt="Backend" />
-
-<br/><br/>
-
-### `04 / MOBILE ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio,java&theme=dark" alt="Mobile" />
+<a href="https://github.com/Coldzy213"><img width="49%" src="./profile/stats.svg" alt="GitHub profile statistics" /></a>
+<a href="https://github.com/Coldzy213?tab=repositories"><img width="49%" src="./profile/top-langs.svg" alt="Most-used programming languages" /></a>
 
 <br/>
 
-**React Native • Expo • Android Development**
-
-<br/>
-
-### `05 / MACHINE LEARNING & AI`
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="Machine Learning" />
-
-<br/>
-
-**Ultralytics YOLO • Roboflow • Object Detection • Computer Vision**
-
-<br/><br/>
-
-### `06 / DATABASE SYSTEMS`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases" />
-
-<br/><br/>
-
-### `07 / DEVELOPMENT TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,figma&theme=dark" alt="Development Tools" />
-
-<br/><br/>
-
-### `08 / GAME DEVELOPMENT & 3D`
-
-<img src="https://skillicons.dev/icons?i=unity,blender,cs&theme=dark" alt="Game Development" />
+<a href="https://github.com/Coldzy213"><img width="72%" src="./profile/streak.svg" alt="GitHub contribution streak" /></a>
 
 </div>
 
----
+<details>
+<summary><b>[ + ] OPEN / ACTIVITY GRAPH</b></summary>
 
-## 🚀 Engineering Capabilities
+<br/>
 
 <div align="center">
 
-| Domain | Technologies & Experience |
-|:---:|:---|
-| ⚙️ **Backend Development** | Laravel, FastAPI, PHP, Python |
-| 🌐 **Frontend Development** | Next.js, React.js, JavaScript, Tailwind CSS |
-| 📱 **Mobile Development** | React Native, Expo, Android |
-| 🧠 **Machine Learning** | PyTorch, TensorFlow, YOLO |
-| 👁️ **Computer Vision** | Object Detection, Image Processing, Roboflow |
-| 🗄️ **Database Engineering** | MySQL, PostgreSQL, SQLite |
-| 🔌 **API Engineering** | REST APIs, Authentication, Integrations |
-| ☁️ **Deployment** | Render, Vercel, Railway |
-| 🎮 **3D Development** | Unity, Blender, C# |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Coldzy213&bg_color=08111f&color=8eafc9&line=22d3ee&point=60a5fa&area=true&area_color=1d4ed8&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
 
 </div>
 
----
+</details>
 
-## 📊 GitHub Intelligence Dashboard
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1400&color=22D3EE&center=true&vCenter=true&width=650&lines=Fetching+GitHub+Statistics...;Analyzing+Code+Contributions...;Tracking+Development+Activity..." alt="Analytics Animation" />
-
-<br/>
-
-<img height="170" src="./profile/stats.svg" alt="GitHub Statistics" />
-<img height="170" src="./profile/top-langs.svg" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img width="75%" src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Coldzy213&bg_color=0D1117&color=38BDF8&line=2563EB&point=22D3EE&area=true&area_color=1D4ED8&hide_border=true&custom_title=Development%20Activity" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<a id="activity"></a>
+## 05 // CONTRIBUTION.STREAM
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Contribution Snake Animation" src="./profile/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="./profile/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
 </picture>
 
-<br/>
-
-*Every contribution is another step forward.*
-
 </div>
 
----
-
-## 🧩 Development Workflow
-
-```mermaid
-flowchart LR
-    A["💡 Idea"] --> B["🧠 Planning"]
-    B --> C["🎨 Design"]
-    C --> D["💻 Development"]
-    D --> E["🧪 Testing"]
-    E --> F["🚀 Deployment"]
-    F --> G["📈 Optimization"]
-    G -.-> B
-
-    classDef primary fill:#0F172A,stroke:#38BDF8,color:#FFFFFF
-    classDef active fill:#1D4ED8,stroke:#22D3EE,color:#FFFFFF
-
-    class A,B,C,E,G primary
-    class D,F active
-```
-
----
-
-## 🔭 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-APPLICATIONS-0F172A?style=for-the-badge&logo=probot&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/COMPUTER-VISION-1D4ED8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BACKEND-ARCHITECTURE-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<details>
+<summary><b>[ + ] OPEN / ENGINEERING PRINCIPLES</b></summary>
 
 <br/>
-
-<img src="https://img.shields.io/badge/MOBILE-DEVELOPMENT-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/REST-API_ENGINEERING-0369A1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MACHINE-LEARNING-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-
-</div>
-
----
-
-## 💻 Developer Mindset
-
-<div align="center">
 
 ```text
-> developer --status
-
-[✓] Passionate about clean and maintainable code
-[✓] Building modern web applications
-[✓] Developing mobile experiences
-[✓] Exploring intelligent AI solutions
-[✓] Learning new technologies
-[✓] Turning complex problems into simple solutions
-
-SYSTEM STATUS: ALWAYS BUILDING...
+[01] THINK IN SYSTEMS
+[02] DESIGN FOR CLARITY
+[03] BUILD FOR MAINTAINABILITY
+[04] TEST WHAT MATTERS
+[05] AUTOMATE THE REPETITIVE
+[06] KEEP LEARNING
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Think.+Design.+Develop.+Deploy.;Build.+Break.+Debug.+Improve.;Code+is+Language.;Never+Stop+Learning." alt="Developer Philosophy" />
+</details>
 
-</div>
-
----
-
-## 🌐 Connect With Me
+<a id="contact"></a>
+## 06 // ESTABLISH.CONNECTION
 
 <div align="center">
 
-<a href="https://github.com/Coldzy213">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/drewzamora">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:zamoradrew213@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_A_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/Coldzy213"><img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-101A2A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/drewzamora"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:zamoradrew213@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-**Open to collaboration, learning opportunities, and building meaningful software.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1100&color=5DE4F5&center=true&vCenter=true&width=720&height=45&lines=Connection+established...;Thanks+for+exploring+my+workspace.;Code+is+Language.+Keep+building." alt="Animated footer message" />
 
-<br/>
-
-### `> Code is Language.`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+Building.+Keep+Learning.;See+you+in+the+next+commit!" alt="Footer Animation" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&text=KEEP%20BUILDING&fontColor=FFFFFF&fontSize=25&fontAlignY=72&animation=fadeIn" alt="Footer" />
+<img width="100%" src="./assets/footer.svg" alt="Animated footer: Code is Language" />
 
 </div>
