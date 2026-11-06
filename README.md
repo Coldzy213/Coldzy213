@@ -12,7 +12,7 @@
 
 <br>
 
-I'm an Information Technology graduate, majoring in **Programming**.
+I'm an Software Developer.
 
 I enjoy developing modern web and mobile applications while exploring **Machine Learning, Artificial Intelligence, and Computer Vision**.
 
